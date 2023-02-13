@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+I'm a Computer Science & Sustainability dual major. I'm excited about any oppurtunity to combine those two things, such as one of my current projects, [Open Energy Dashboard](https://github.com/OpenEnergyDashboard/OED)!
+
+I have [another github](https://github.com/airom42) I use for hobby projects as well.
 
 <!--
 **spearec/spearec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
